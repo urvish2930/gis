@@ -1,0 +1,20 @@
+{
+  "name": "leaflet-map-js-project",
+  "version": "1.0.0",
+  "private": true,
+
+    "scripts": {
+      "dev": "NODE_OPTIONS='--inspect' next dev",
+      "build": "next build",
+      "start": "next start"
+    },
+  
+  
+  "dependencies": {
+    "leaflet": "^1.9.4",
+    "react": "latest",
+    "react-dom": "latest",
+    "next": "latest",
+    "react-leaflet": "^4.2.1"
+  }
+}
