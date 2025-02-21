@@ -1,0 +1,806 @@
+[
+  {
+    "name": "Alameda, CA",
+    "zip": "94501"
+  },
+  {
+    "name": "Alameda, CA",
+    "zip": "94502"
+  },
+  {
+    "name": "Alamo, CA",
+    "zip": "94507"
+  },
+  {
+    "name": "Albany, CA",
+    "zip": "94706"
+  },
+  {
+    "name": "Antioch, CA",
+    "zip": "94509"
+  },
+  {
+    "name": "Antioch, CA",
+    "zip": "94531"
+  },
+  {
+    "name": "BRENTWOOD, CA",
+    "zip": "94513"
+  },
+  {
+    "name": "Belmont, CA",
+    "zip": "94002"
+  },
+  {
+    "name": "Benicia, CA",
+    "zip": "94510"
+  },
+  {
+    "name": "Berkeley, CA",
+    "zip": "94702"
+  },
+  {
+    "name": "Berkeley, CA",
+    "zip": "94704"
+  },
+  {
+    "name": "Berkeley, CA",
+    "zip": "94705"
+  },
+  {
+    "name": "Brentwood, CA",
+    "zip": "94513"
+  },
+  {
+    "name": "Burlingame, CA",
+    "zip": "94010"
+  },
+  {
+    "name": "CUPERTINO, CA",
+    "zip": "95014"
+  },
+  {
+    "name": "Campbell, CA",
+    "zip": "95008"
+  },
+  {
+    "name": "Castro Valley, CA",
+    "zip": "94546"
+  },
+  {
+    "name": "Castro Valley, CA",
+    "zip": "94552"
+  },
+  {
+    "name": "Castro valley, CA",
+    "zip": "94546"
+  },
+  {
+    "name": "Castro valley, CA",
+    "zip": "94552"
+  },
+  {
+    "name": "Concord, CA",
+    "zip": "94518"
+  },
+  {
+    "name": "Concord, CA",
+    "zip": "94519"
+  },
+  {
+    "name": "Concord, CA",
+    "zip": "94520"
+  },
+  {
+    "name": "Concord, CA",
+    "zip": "94521"
+  },
+  {
+    "name": "Cupertino, CA",
+    "zip": "95014"
+  },
+  {
+    "name": "DUBLIN, CA",
+    "zip": "94568"
+  },
+  {
+    "name": "Daly City, CA",
+    "zip": "94014"
+  },
+  {
+    "name": "Daly City, CA",
+    "zip": "94015"
+  },
+  {
+    "name": "Danville, CA",
+    "zip": "94506"
+  },
+  {
+    "name": "Danville, CA",
+    "zip": "94526"
+  },
+  {
+    "name": "Davis, CA",
+    "zip": "95616"
+  },
+  {
+    "name": "Discovery Bay, CA",
+    "zip": "94505"
+  },
+  {
+    "name": "Dublin, CA",
+    "zip": "94568"
+  },
+  {
+    "name": "El Cerrito, CA",
+    "zip": "94530"
+  },
+  {
+    "name": "Elk Grove, CA",
+    "zip": "95624"
+  },
+  {
+    "name": "Elk Grove, CA",
+    "zip": "95757"
+  },
+  {
+    "name": "Emeryville, CA",
+    "zip": "94608"
+  },
+  {
+    "name": "FREMONT, CA",
+    "zip": "94538"
+  },
+  {
+    "name": "Fairfield, CA",
+    "zip": "94533"
+  },
+  {
+    "name": "Fairfield, CA",
+    "zip": "94534"
+  },
+  {
+    "name": "Folsom, CA",
+    "zip": "95630"
+  },
+  {
+    "name": "Foster City, CA",
+    "zip": "94404"
+  },
+  {
+    "name": "Foster city, CA",
+    "zip": "94404"
+  },
+  {
+    "name": "Fremont, CA",
+    "zip": "94536"
+  },
+  {
+    "name": "Fremont, CA",
+    "zip": "94538"
+  },
+  {
+    "name": "Fremont, CA",
+    "zip": "94539"
+  },
+  {
+    "name": "Fremont, CA",
+    "zip": "94555"
+  },
+  {
+    "name": "Hayward, CA",
+    "zip": "94541"
+  },
+  {
+    "name": "Hayward, CA",
+    "zip": "94542"
+  },
+  {
+    "name": "Hayward, CA",
+    "zip": "94544"
+  },
+  {
+    "name": "Hayward, CA",
+    "zip": "94545"
+  },
+  {
+    "name": "Hercules, CA",
+    "zip": "94547"
+  },
+  {
+    "name": "Lafayette, CA",
+    "zip": "94549"
+  },
+  {
+    "name": "Lathrop, CA",
+    "zip": "95330"
+  },
+  {
+    "name": "Livermore, CA",
+    "zip": "94550"
+  },
+  {
+    "name": "Livermore, CA",
+    "zip": "94551"
+  },
+  {
+    "name": "Los Altos, CA",
+    "zip": "94022"
+  },
+  {
+    "name": "Los Altos, CA",
+    "zip": "94024"
+  },
+  {
+    "name": "Los Gatos, CA",
+    "zip": "95032"
+  },
+  {
+    "name": "MILPITAS, CA",
+    "zip": "95035"
+  },
+  {
+    "name": "MOUNTAIN VIEW, CA",
+    "zip": "94043"
+  },
+  {
+    "name": "Manteca, CA",
+    "zip": "95336"
+  },
+  {
+    "name": "Manteca, CA",
+    "zip": "95337"
+  },
+  {
+    "name": "Martinez, CA",
+    "zip": "94553"
+  },
+  {
+    "name": "Menlo Park, CA",
+    "zip": "94025"
+  },
+  {
+    "name": "Millbrae, CA",
+    "zip": "94030"
+  },
+  {
+    "name": "Milpitas, CA",
+    "zip": "95035"
+  },
+  {
+    "name": "Moraga, CA",
+    "zip": "94556"
+  },
+  {
+    "name": "Mountain House, CA",
+    "zip": "95391"
+  },
+  {
+    "name": "Mountain View, CA",
+    "zip": "94040"
+  },
+  {
+    "name": "Mountain View, CA",
+    "zip": "94041"
+  },
+  {
+    "name": "Mountain View, CA",
+    "zip": "94043"
+  },
+  {
+    "name": "Mountain house, CA",
+    "zip": "95391"
+  },
+  {
+    "name": "Newark, CA",
+    "zip": "94560"
+  },
+  {
+    "name": "Oakland, CA",
+    "zip": "94601"
+  },
+  {
+    "name": "Oakland, CA",
+    "zip": "94602"
+  },
+  {
+    "name": "Oakland, CA",
+    "zip": "94605"
+  },
+  {
+    "name": "Oakland, CA",
+    "zip": "94606"
+  },
+  {
+    "name": "Oakland, CA",
+    "zip": "94607"
+  },
+  {
+    "name": "Oakland, CA",
+    "zip": "94608"
+  },
+  {
+    "name": "Oakland, CA",
+    "zip": "94609"
+  },
+  {
+    "name": "Oakland, CA",
+    "zip": "94610"
+  },
+  {
+    "name": "Oakland, CA",
+    "zip": "94611"
+  },
+  {
+    "name": "Oakland, CA",
+    "zip": "94612"
+  },
+  {
+    "name": "Oakland, CA",
+    "zip": "94618"
+  },
+  {
+    "name": "Oakland, CA",
+    "zip": "94619"
+  },
+  {
+    "name": "Oakley, CA",
+    "zip": "94561"
+  },
+  {
+    "name": "Orinda, CA",
+    "zip": "94563"
+  },
+  {
+    "name": "Pacifica, CA",
+    "zip": "94044"
+  },
+  {
+    "name": "Palo Alto, CA",
+    "zip": "94301"
+  },
+  {
+    "name": "Palo Alto, CA",
+    "zip": "94303"
+  },
+  {
+    "name": "Palo Alto, CA",
+    "zip": "94306"
+  },
+  {
+    "name": "Pinole, CA",
+    "zip": "94564"
+  },
+  {
+    "name": "Pittsburg, CA",
+    "zip": "94565"
+  },
+  {
+    "name": "Pleasant Hill, CA",
+    "zip": "94523"
+  },
+  {
+    "name": "Pleasant hill, CA",
+    "zip": "94523"
+  },
+  {
+    "name": "Pleasanton, CA",
+    "zip": "94566"
+  },
+  {
+    "name": "Pleasanton, CA",
+    "zip": "94588"
+  },
+  {
+    "name": "Rancho Cordova, CA",
+    "zip": "95670"
+  },
+  {
+    "name": "Rancho Cordova, CA",
+    "zip": "95742"
+  },
+  {
+    "name": "Redwood City, CA",
+    "zip": "94061"
+  },
+  {
+    "name": "Redwood City, CA",
+    "zip": "94063"
+  },
+  {
+    "name": "Redwood City, CA",
+    "zip": "94065"
+  },
+  {
+    "name": "Richmond, CA",
+    "zip": "94804"
+  },
+  {
+    "name": "Richmond, CA",
+    "zip": "94805"
+  },
+  {
+    "name": "Roseville, CA",
+    "zip": "95747"
+  },
+  {
+    "name": "SANTA CLARA, CA",
+    "zip": "95051"
+  },
+  {
+    "name": "SUNNYVALE, CA",
+    "zip": "94086"
+  },
+  {
+    "name": "SUNNYVALE, CA",
+    "zip": "94087"
+  },
+  {
+    "name": "Sacramento, CA",
+    "zip": "95834"
+  },
+  {
+    "name": "Sacramento, CA",
+    "zip": "95835"
+  },
+  {
+    "name": "San Bruno, CA",
+    "zip": "94066"
+  },
+  {
+    "name": "San Carlos, CA",
+    "zip": "94070"
+  },
+  {
+    "name": "San Francisco, CA",
+    "zip": "94102"
+  },
+  {
+    "name": "San Francisco, CA",
+    "zip": "94103"
+  },
+  {
+    "name": "San Francisco, CA",
+    "zip": "94105"
+  },
+  {
+    "name": "San Francisco, CA",
+    "zip": "94107"
+  },
+  {
+    "name": "San Francisco, CA",
+    "zip": "94108"
+  },
+  {
+    "name": "San Francisco, CA",
+    "zip": "94109"
+  },
+  {
+    "name": "San Francisco, CA",
+    "zip": "94110"
+  },
+  {
+    "name": "San Francisco, CA",
+    "zip": "94112"
+  },
+  {
+    "name": "San Francisco, CA",
+    "zip": "94114"
+  },
+  {
+    "name": "San Francisco, CA",
+    "zip": "94115"
+  },
+  {
+    "name": "San Francisco, CA",
+    "zip": "94116"
+  },
+  {
+    "name": "San Francisco, CA",
+    "zip": "94117"
+  },
+  {
+    "name": "San Francisco, CA",
+    "zip": "94118"
+  },
+  {
+    "name": "San Francisco, CA",
+    "zip": "94121"
+  },
+  {
+    "name": "San Francisco, CA",
+    "zip": "94122"
+  },
+  {
+    "name": "San Francisco, CA",
+    "zip": "94124"
+  },
+  {
+    "name": "San Francisco, CA",
+    "zip": "94131"
+  },
+  {
+    "name": "San Francisco, CA",
+    "zip": "94132"
+  },
+  {
+    "name": "San Francisco, CA",
+    "zip": "94133"
+  },
+  {
+    "name": "San Francisco, CA",
+    "zip": "94134"
+  },
+  {
+    "name": "San Francisco, CA",
+    "zip": "94158"
+  },
+  {
+    "name": "San Jose, CA",
+    "zip": "95111"
+  },
+  {
+    "name": "San Jose, CA",
+    "zip": "95112"
+  },
+  {
+    "name": "San Jose, CA",
+    "zip": "95116"
+  },
+  {
+    "name": "San Jose, CA",
+    "zip": "95117"
+  },
+  {
+    "name": "San Jose, CA",
+    "zip": "95118"
+  },
+  {
+    "name": "San Jose, CA",
+    "zip": "95119"
+  },
+  {
+    "name": "San Jose, CA",
+    "zip": "95120"
+  },
+  {
+    "name": "San Jose, CA",
+    "zip": "95121"
+  },
+  {
+    "name": "San Jose, CA",
+    "zip": "95122"
+  },
+  {
+    "name": "San Jose, CA",
+    "zip": "95123"
+  },
+  {
+    "name": "San Jose, CA",
+    "zip": "95124"
+  },
+  {
+    "name": "San Jose, CA",
+    "zip": "95125"
+  },
+  {
+    "name": "San Jose, CA",
+    "zip": "95126"
+  },
+  {
+    "name": "San Jose, CA",
+    "zip": "95127"
+  },
+  {
+    "name": "San Jose, CA",
+    "zip": "95128"
+  },
+  {
+    "name": "San Jose, CA",
+    "zip": "95129"
+  },
+  {
+    "name": "San Jose, CA",
+    "zip": "95130"
+  },
+  {
+    "name": "San Jose, CA",
+    "zip": "95131"
+  },
+  {
+    "name": "San Jose, CA",
+    "zip": "95132"
+  },
+  {
+    "name": "San Jose, CA",
+    "zip": "95133"
+  },
+  {
+    "name": "San Jose, CA",
+    "zip": "95134"
+  },
+  {
+    "name": "San Jose, CA",
+    "zip": "95135"
+  },
+  {
+    "name": "San Jose, CA",
+    "zip": "95136"
+  },
+  {
+    "name": "San Jose, CA",
+    "zip": "95138"
+  },
+  {
+    "name": "San Jose, CA",
+    "zip": "95148"
+  },
+  {
+    "name": "San Leandro, CA",
+    "zip": "94577"
+  },
+  {
+    "name": "San Leandro, CA",
+    "zip": "94578"
+  },
+  {
+    "name": "San Leandro, CA",
+    "zip": "94579"
+  },
+  {
+    "name": "San Lorenzo, CA",
+    "zip": "94580"
+  },
+  {
+    "name": "San Mateo, CA",
+    "zip": "94401"
+  },
+  {
+    "name": "San Mateo, CA",
+    "zip": "94402"
+  },
+  {
+    "name": "San Mateo, CA",
+    "zip": "94403"
+  },
+  {
+    "name": "San Pablo, CA",
+    "zip": "94806"
+  },
+  {
+    "name": "San Ramon, CA",
+    "zip": "94582"
+  },
+  {
+    "name": "San Ramon, CA",
+    "zip": "94583"
+  },
+  {
+    "name": "San bruno, CA",
+    "zip": "94066"
+  },
+  {
+    "name": "San jose, CA",
+    "zip": "95134"
+  },
+  {
+    "name": "San ramon, CA",
+    "zip": "94582"
+  },
+  {
+    "name": "San ramon, CA",
+    "zip": "94583"
+  },
+  {
+    "name": "Santa Clara, CA",
+    "zip": "95050"
+  },
+  {
+    "name": "Santa Clara, CA",
+    "zip": "95051"
+  },
+  {
+    "name": "Santa Clara, CA",
+    "zip": "95054"
+  },
+  {
+    "name": "Santa clara, CA",
+    "zip": "95051"
+  },
+  {
+    "name": "Saratoga, CA",
+    "zip": "95070"
+  },
+  {
+    "name": "South San Francisco, CA",
+    "zip": "94080"
+  },
+  {
+    "name": "Stockton, CA",
+    "zip": "95206"
+  },
+  {
+    "name": "Stockton, CA",
+    "zip": "95212"
+  },
+  {
+    "name": "Sunnyvale, CA",
+    "zip": "94085"
+  },
+  {
+    "name": "Sunnyvale, CA",
+    "zip": "94086"
+  },
+  {
+    "name": "Sunnyvale, CA",
+    "zip": "94087"
+  },
+  {
+    "name": "Sunnyvale, CA",
+    "zip": "94089"
+  },
+  {
+    "name": "Tracy, CA",
+    "zip": "95304"
+  },
+  {
+    "name": "Tracy, CA",
+    "zip": "95376"
+  },
+  {
+    "name": "Tracy, CA",
+    "zip": "95377"
+  },
+  {
+    "name": "Tracy, CA",
+    "zip": "95391"
+  },
+  {
+    "name": "Union City, CA",
+    "zip": "94587"
+  },
+  {
+    "name": "Union city, CA",
+    "zip": "94587"
+  },
+  {
+    "name": "Vallejo, CA",
+    "zip": "94591"
+  },
+  {
+    "name": "Walnut Creek, CA",
+    "zip": "94595"
+  },
+  {
+    "name": "Walnut Creek, CA",
+    "zip": "94596"
+  },
+  {
+    "name": "Walnut Creek, CA",
+    "zip": "94597"
+  },
+  {
+    "name": "Walnut Creek, CA",
+    "zip": "94598"
+  },
+  {
+    "name": "dublin, CA",
+    "zip": "94568"
+  },
+  {
+    "name": "fremont, CA",
+    "zip": "94536"
+  },
+  {
+    "name": "pleasanton, CA",
+    "zip": "94588"
+  },
+  {
+    "name": "santa clara, CA",
+    "zip": "95051"
+  },
+  {
+    "name": "union city, CA",
+    "zip": "94587"
+  }
+]
